@@ -36,32 +36,36 @@
   </span>
   <br/>
   <span style="display: inline-block;">
-    <img src="https://skillicons.dev/icons?i=vercel,render,aws,java,python,linux,postman,prisma,supabase,clerk,drizzle,stripe,sql" />
+    <img src="https://skillicons.dev/icons?i=render,render,render,render,vercel,aws,java,python,linux,postman,prisma,supabase,clerk,drizzle,stripe,sql" />
   </span>
 </p>
 
 <!-- Typing Text Banner -->
 <div style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&width=435&lines=Full+Stack+Developer;AI%2FML+Explorer;Clean+Code+Advocate;Open+Source+Contributor;React+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=14B8A6&center=true&width=435&lines=Full+Stack+Developer;AI%2FML+Explorer;Clean+Code+Advocate;Open+Source+Contributor;React+Lover" alt="Typing SVG" />
 </div>
 <br/>
-</div>
 
 <!-- GITHUB ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shatakshirajput&theme=react-dark&bg_color=000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&area_opacity=0.2&hide_border=true&custom_title=🔥%20My%20GitHub%20Contribution%20Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shatakshirajput&theme=react-dark&bg_color=000000&color=14B8A6&line=14B8A6&point=FFFFFF&area=true&area_color=14B8A6&area_opacity=0.2&hide_border=true&custom_title=🔥%20My%20GitHub%20Contribution%20Graph" width="95%" />
 </div>
+
+<br/>
 
 <!-- STATS SECTION -->
 <div align="center" style="margin-top: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shatakshirajput&theme=github_dark&hide_border=false&border_color=58A6FF&include_all_commits=true&count_private=true" height="180" style="border: 2px solid #58A6FF; border-radius: 8px;" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshirajput&theme=github_dark&hide_border=false&border_color=58A6FF&layout=compact" height="180" style="border: 2px solid #58A6FF; border-radius: 8px;" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshirajput&theme=github_dark&hide_border=false&border_color=14B8A6&layout=compact" height="180" />
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=shatakshirajput&theme=github-dark&hide_border=false&border_color=58A6FF" width="95%" style="border: 2px solid #58A6FF; border-radius: 8px;" />
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=shatakshirajput&theme=github-dark&hide_border=false&border_color=14B8A6" width="95%" />
+
 </div>
+
 
 <!-- SNAKE GRAPH -->
 <p align="center">
