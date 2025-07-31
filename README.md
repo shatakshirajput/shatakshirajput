@@ -55,17 +55,24 @@
 
 <!-- STATS SECTION -->
 <div align="center" style="margin-top: 30px;">
-<img src="https://github-readme-stats.vercel.app/api?username=shatakshirajput&theme=github_dark&hide_border=false&border_color=58A6FF&include_all_commits=true&count_private=true" height="180" style="border: 2px solid #58A6FF; border-radius: 8px;" />
+  <!-- Side-by-side GitHub Stats and Top Languages -->
+  <span>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=shatakshirajput&theme=github_dark&hide_border=false&border_color=14B8A6&include_all_commits=true&count_private=true" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshirajput&theme=github_dark&hide_border=false&border_color=14B8A6&layout=compact" 
+    />
+  </span>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshirajput&theme=github_dark&hide_border=false&border_color=14B8A6&layout=compact" height="180" />
-
-  <br/><br/>
+  <br /><br />
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=shatakshirajput&theme=github-dark&hide_border=false&border_color=14B8A6" width="95%" />
-
+  <img 
+    src="https://streak-stats.demolab.com?user=shatakshirajput&theme=github-dark&hide_border=false&border_color=14B8A6" 
+  />
 </div>
+
 
 
 <!-- SNAKE GRAPH -->
