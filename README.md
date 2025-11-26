@@ -18,7 +18,6 @@
     <li>🌍  I'm based in <b>India</b></li>
     <li>🖥️  See my portfolio at <a href="https://shatakshi-rajput-portfolio.vercel.app" target="_blank"><b>My Website</b></a></li>
     <li>✉️  You can contact me at <a href="mailto:shatakshirajput02@gmail.com"><b>shatakshirajput02@gmail.com</b></a></li>
-    <li>🚀  I'm currently working on <a href="https://github.com/shatakshirajput/AICommit" target="_blank"><b>AICommit</b></a></li>
     <li>🧠  I'm learning <b>Advanced DevOps</b> and <b>LLM Integrations</b></li>
     <li>🤝  I'm open to collaborating on <b>MERN</b> || <b>AI/ML Projects</b> || <b>Open Source</b></li>
   </ul>
